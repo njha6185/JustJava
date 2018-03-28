@@ -1,0 +1,21 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="quantity_of_coffee">QUANTITY</string>
+    <string name="minus">-</string>
+    <string name="value_of_quantity">1</string>
+    <string name="plus">+</string>
+    <string name="price_heading">price</string>
+    <string name="price_value">₹ 5</string>
+    <string name="order_button">ORDER</string>
+    <string name="topping_heading">TOPPINGS</string>
+    <string name="topping1">Whipped Cream</string>
+    <string name="toppin2">Chocolate</string>
+    <string name="Username">Name</string>
+
+    <string name="order_summary_name">Name : <xliff:g id="sname" example="nitish">%s</xliff:g> </string>
+    <string name="whippedCreamadd">Add Whipped Cream? : <xliff:g id="whippedCreamStatus" example="true">%b</xliff:g></string>
+    <string name="chocolateadd">Add Chocolate? :<xliff:g id="chocolateStatus" example="true">%b</xliff:g></string>
+    <string name="quantity">Quantity : <xliff:g id="quantityOfCoffee" example="1">%d</xliff:g></string>
+    <string name="total">Total: ₹ <xliff:g id="priceOfcoffe" example="20">%d</xliff:g></string>
+    <string name="thankyoumsg">Thank You!!!</string>
+</resources>
